@@ -1,9 +1,9 @@
-package strategy
+package domain
 
 import model.Budget
 
-class ICMS : Tax {
+class ISS : Tax {
     override fun calculate(budget: Budget): Double {
-        return budget.mount * 0.05
+        return budget.mount * 0.1
     }
 }
