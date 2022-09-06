@@ -1,4 +1,4 @@
-package mediator
+package domain
 
 class Runway(private val atcMediator: IATCMediator) : Command {
 

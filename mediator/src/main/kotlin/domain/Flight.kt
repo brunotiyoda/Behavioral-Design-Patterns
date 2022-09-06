@@ -1,4 +1,4 @@
-package mediator
+package domain
 
 class Flight(private val atcMediator: IATCMediator) : Command {
 

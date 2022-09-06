@@ -1,4 +1,4 @@
-package mediator
+package domain
 
 fun main() {
     val atcMediator = ATCMediator()

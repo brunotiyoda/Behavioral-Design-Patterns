@@ -1,4 +1,4 @@
-package mediator
+package domain
 
 interface IATCMediator {
     val isLandingOk: Boolean

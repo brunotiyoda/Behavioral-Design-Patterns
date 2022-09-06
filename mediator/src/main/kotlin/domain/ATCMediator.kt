@@ -1,4 +1,4 @@
-package mediator
+package domain
 
 class ATCMediator : IATCMediator {
     private var flight: Flight? = null
