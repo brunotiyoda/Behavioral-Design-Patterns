@@ -1,6 +1,8 @@
-package state
+package model
 
 import model.Budget
+import model.Reprove
+import model.StatusBudget
 
 class UnderAnalysis : StatusBudget() {
 

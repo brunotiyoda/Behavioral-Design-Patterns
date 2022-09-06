@@ -1,9 +1,5 @@
 package model
 
-import state.Approve
-import state.NoDiscount
-import state.StatusBudget
-
 data class Budget(
     val mount: Double,
     val quantity: Int? = null,

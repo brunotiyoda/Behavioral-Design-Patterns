@@ -1,6 +1,4 @@
-package state
-
-import model.Budget
+package model
 
 class Approve : StatusBudget() {
 
