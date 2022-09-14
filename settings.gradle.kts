@@ -1,7 +1,10 @@
 rootProject.name = "design-patterns"
 
-include("strategy")
-include("model")
-include("mediator")
-include("observer")
-include("template-method")
+include(
+    "model",
+    "strategy",
+    "template-method",
+    "mediator",
+    "observer",
+    "chain-of-responsibility"
+)

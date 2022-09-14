@@ -1,4 +1,4 @@
-package chain.of.responsibility
+package domain
 
 import model.Budget
 
