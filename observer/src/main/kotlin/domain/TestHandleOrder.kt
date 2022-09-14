@@ -1,4 +1,4 @@
-package observer
+package domain
 
 import model.Budget
 import model.Order
