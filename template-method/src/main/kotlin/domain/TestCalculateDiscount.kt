@@ -1,4 +1,4 @@
-package template.method
+package domain
 
 import model.Budget
 
