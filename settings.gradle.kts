@@ -6,5 +6,6 @@ include(
     "template-method",
     "mediator",
     "observer",
-    "chain-of-responsibility"
+    "chain-of-responsibility",
+    "state"
 )

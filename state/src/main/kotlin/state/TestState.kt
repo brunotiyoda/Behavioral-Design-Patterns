@@ -1,4 +1,3 @@
-/*
 package state
 
 import model.Budget
@@ -26,4 +25,4 @@ fun main() {
     println(noDiscount3.finished())
 
 
-}*/
+}
