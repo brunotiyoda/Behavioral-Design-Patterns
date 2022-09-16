@@ -2,7 +2,7 @@ package model
 
 data class Budget(
     val mount: Double,
-    val quantity: Int? = null,
+    val quantity: Int = 1,
     val status: StatusBudget? = NoDiscount()
 ) {
 
