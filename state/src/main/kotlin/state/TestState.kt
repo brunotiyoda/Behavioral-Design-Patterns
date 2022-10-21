@@ -23,6 +23,4 @@ fun main() {
     val noDiscount3 = Budget(mount = 1000.0)
     println(noDiscount3)
     println(noDiscount3.finished())
-
-
 }
